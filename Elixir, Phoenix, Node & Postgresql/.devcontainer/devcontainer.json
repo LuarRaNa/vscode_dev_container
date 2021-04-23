@@ -10,6 +10,9 @@
 	"settings": {
 		"terminal.integrated.shell.linux": "/bin/zsh",
 		"elixirLS.dialyzerEnabled": false,
+		"emmet.includeLanguages": {
+			"html-eex": "html"
+		},
 	},
 
 	// Add the IDs of extensions you want installed when the container is created.
